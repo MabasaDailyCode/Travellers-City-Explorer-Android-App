@@ -12,7 +12,7 @@
         android:theme="@style/Theme.MabasaFinalapp">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBHOtQ4KSGUJznNyOn5R50xlWtYjgKzyM0" />
+            android:value="xxxxxxxx Your API KEY xxxxx" />
         <activity android:name=".Logindetails"></activity>
         <activity android:name=".MainActivity2">
             <intent-filter>
