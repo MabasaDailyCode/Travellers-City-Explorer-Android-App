@@ -1,0 +1,2 @@
+rootProject.name = "MabasaFinalapp"
+include ':app'
